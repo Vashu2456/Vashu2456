@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **Vashu2456/Vashu2456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
