@@ -28,6 +28,9 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/𝙑𝘼𝙎𝙃𝙐-black?style=for-the-badge&logo= 𝙑𝘼𝙎𝙃𝙐" width="510" height="138.45"/></a></p>
 
+[![VASHU](https://github-stats-alpha.vercel.app/api?username=Vashu2456 "VASHU")](https://github-stats-alpha.vercel.app/api?username=Vashu2456 "Vashu")
+
+
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
